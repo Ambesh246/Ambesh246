@@ -1,4 +1,4 @@
-# Hi, I'm Ambesh 👋
+# Hi, I'm Ambesh Kumar Sharma 👋
 
 ### B.Tech CSE (Data Science) Student @ AKGEC
 
