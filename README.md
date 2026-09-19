@@ -68,6 +68,6 @@ Machine learning based spam message classification.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/ambeshkumarsharma/)
 
 [GitHub](https://github.com/Ambesh246)
